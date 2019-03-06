@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">AprendaIngles</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_title">Animals</string>
+    <string name="action_bar_app_name">Learn English</string>
+    <string name="animals_fragment">Animals</string>
+    <string-array name="animals">
+        <item>Bull</item>
+        <item>Bunny</item>
+        <item>Camel</item>
+        <item>Cat</item>
+        <item>Cow</item>
+        <item>Crocodile</item>
+        <item>Dog</item>
+        <item>Dumb</item>
+        <item>Hippopotamus</item>
+        <item>Lion</item>
+        <item>Monkey</item>
+        <item>Mouse</item>
+        <item>Pig</item>
+        <item>Rhinoceros</item>
+        <item>Sheep</item>
+        <item>Turtle</item>
+    </string-array>
+    <array name="animals_picture">
+        <item>@drawable/bull</item>
+        <item>@drawable/bunny</item>
+        <item>@drawable/camel</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/cow</item>
+        <item>@drawable/crocodile</item>
+        <item>@drawable/dog</item>
+        <item>@drawable/dumb</item>
+        <item>@drawable/hippopotamus</item>
+        <item>@drawable/lion</item>
+        <item>@drawable/monkey</item>
+        <item>@drawable/mouse</item>
+        <item>@drawable/pig</item>
+        <item>@drawable/rhinoceros</item>
+        <item>@drawable/sheep</item>
+        <item>@drawable/turtle</item>
+    </array>
+    <array name="animals_sounds">
+        <item>@drawable/bunny</item>
+        <item>@drawable/camel</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/cow</item>
+        <item>@drawable/crocodile</item>
+        <item>@drawable/dog</item>
+        <item>@drawable/dumb</item>
+        <item>@drawable/hippopotamus</item>
+        <item>@drawable/lion</item>
+        <item>@drawable/monkey</item>
+        <item>@drawable/mouse</item>
+        <item>@drawable/pig</item>
+        <item>@drawable/rhinoceros</item>
+        <item>@drawable/sheep</item>
+        <item>@drawable/turtle</item>
+    </array>
+</resources>

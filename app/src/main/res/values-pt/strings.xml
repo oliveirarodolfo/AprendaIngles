@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aprenda Inglês</string>
+    <string name="hello_blank_fragment">Olá fragmento em branco</string>
+    <string name="item_title">Animais</string>
+    <string-array name="animals">
+        <item>Touro</item>
+        <item>Coelho</item>
+        <item>Camelo</item>
+        <item>Gato</item>
+        <item>Vaca</item>
+        <item>Crocodilo</item>
+        <item>Cachorro</item>
+        <item>Burro</item>
+        <item>Hipopótamo</item>
+        <item>Leão</item>
+        <item>Macaco</item>
+        <item>Rato</item>
+        <item>Porco</item>
+        <item>Rinoceronte</item>
+        <item>Ovelha</item>
+        <item>Tartaruga</item>
+    </string-array>
+    <array name="animals_picture">
+        <item>@drawable/bull</item>
+        <item>@drawable/bunny</item>
+        <item>@drawable/camel</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/cow</item>
+        <item>@drawable/crocodile</item>
+        <item>@drawable/dog</item>
+        <item>@drawable/dumb</item>
+        <item>@drawable/hippopotamus</item>
+        <item>@drawable/lion</item>
+        <item>@drawable/monkey</item>
+        <item>@drawable/mouse</item>
+        <item>@drawable/pig</item>
+        <item>@drawable/rhinoceros</item>
+        <item>@drawable/sheep</item>
+        <item>@drawable/turtle</item>
+    </array>
+    <string name="action_bar_app_name">Aprenda Inglês</string>
+    <string name="animals_fragment">Animais</string>
+</resources>
